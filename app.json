@@ -10,10 +10,7 @@
     "unlimited"
   ],
   
- $ heroku buildpacks
-  
-  $ node --version 
-  
+
   "website": "https://teledriveapp.com",
   "repository": "https://github.com/guilhermezap/teledrive",
 
